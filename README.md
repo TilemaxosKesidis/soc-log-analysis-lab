@@ -36,7 +36,6 @@ Detected multiple failed login attempts using EventCode 4625 from Windows Securi
 
 ## Screenshots
 
-(See screenshots folder)
 
 ## Conclusion
 
